@@ -953,6 +953,8 @@ void attack_ekrani(const char *mod, const char *hedef, int port, int sure, int t
     gradient_satir("ASN:", asn);
     gradient_satir("Country:", ulke);
 
+    printf("\n");
+
 }
 
 // ==================== SALDIRI ====================
