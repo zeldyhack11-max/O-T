@@ -954,7 +954,6 @@ void attack_ekrani(const char *mod, const char *hedef, int port, int sure, int t
     gradient_satir("Country:", ulke);
 
     printf("\n");
-    gradient_yazi("[*] Attack in progress... Type 'attackstop' to stop.");
     printf("\n\n");
 }
 
